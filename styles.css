@@ -1,0 +1,17 @@
+h3{
+   color: red; 
+}
+
+#resultado {
+    font-weight:  bold;
+    font-size:  6rem;
+    text-align: center;
+  }
+
+  .canvas-container {
+      margin: 0 auto;
+      border: 1px solid #ccc;
+  }
+  #bigcanvas{
+    color: red;
+  }
